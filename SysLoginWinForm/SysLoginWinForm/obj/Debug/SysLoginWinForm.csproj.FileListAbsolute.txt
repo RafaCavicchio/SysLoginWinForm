@@ -1,0 +1,12 @@
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\bin\Debug\SysLoginWinForm.exe.config
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\bin\Debug\SysLoginWinForm.exe
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\bin\Debug\SysLoginWinForm.pdb
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\obj\Debug\SysLoginWinForm.csprojAssemblyReference.cache
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\obj\Debug\SysLoginWinForm.Properties.Resources.resources
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\obj\Debug\SysLoginWinForm.csproj.GenerateResource.cache
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\obj\Debug\SysLoginWinForm.csproj.CoreCompileInputs.cache
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\obj\Debug\SysLoginWinForm.exe
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\obj\Debug\SysLoginWinForm.pdb
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\obj\Debug\SysLoginWinForm.Views.BemVindo.resources
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\obj\Debug\SysLoginWinForm.Views.Cadastro.resources
+C:\Users\ext.rafael.cavicchio\source\repos\SysLoginWinForm\SysLoginWinForm\obj\Debug\SysLoginWinForm.Login.resources
